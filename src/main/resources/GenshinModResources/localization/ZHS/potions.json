@@ -1,0 +1,32 @@
+{
+  "genshin:UnmovingEssentialOil": {
+    "NAME": "磐石精油",
+    "DESCRIPTIONS": [
+      "添加 #b2 张 #y荒星 到你的手牌。"
+    ]
+  },
+  "genshin:GushingEssentialOil": {
+    "NAME": "狂风精油",
+    "DESCRIPTIONS": [
+      "添加 #b2 张 #y风种子 到你的手牌。"
+    ]
+  },
+  "genshin:ForestEssentialOil": {
+    "NAME": "丛林精油",
+    "DESCRIPTIONS": [
+      "获得 #b2 点 #y元素精通 。"
+    ]
+  },
+  "genshin:FlamingEssentialOil": {
+    "NAME": "烈火精油",
+    "DESCRIPTIONS": [
+      "对所有敌人施加 #b10 层 #y火 。"
+    ]
+  },
+  "genshin:StreamingEssentialOil": {
+    "NAME": "激流精油",
+    "DESCRIPTIONS": [
+      "获得 #b15 点 #y临时生命 。"
+    ]
+  }
+}

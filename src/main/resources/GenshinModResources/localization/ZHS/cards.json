@@ -1,0 +1,443 @@
+{
+  "genshin:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害。"
+  },
+  "genshin:Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "genshin:HelloDefend": {
+    "NAME": "HelloDefend",
+    "DESCRIPTION": "获得 !B! 点格挡。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "genshin:Hydro": {
+    "NAME": "水附魔",
+    "DESCRIPTION": "施加 genshin:水 附魔。",
+    "UPGRADE_DESCRIPTION": "施加 genshin:水 附魔。"
+  },
+  "genshin:Pyro": {
+    "NAME": "火附魔",
+    "DESCRIPTION": "施加 genshin:火 附魔。",
+    "UPGRADE_DESCRIPTION": "施加 genshin:火 附魔。"
+  },
+  "genshin:Dentro": {
+    "NAME": "草附魔",
+    "DESCRIPTION": "施加 genshin:草 附魔。",
+    "UPGRADE_DESCRIPTION": "施加 genshin:草 附魔。"
+  },
+  "genshin:Cryo": {
+    "NAME": "冰附魔",
+    "DESCRIPTION": "施加 genshin:冰 附魔。",
+    "UPGRADE_DESCRIPTION": "施加 genshin:冰 附魔。"
+  },
+  "genshin:Electro": {
+    "NAME": "雷附魔",
+    "DESCRIPTION": "施加 genshin:雷 附魔。",
+    "UPGRADE_DESCRIPTION": "施加 genshin:雷 附魔。"
+  },
+  "genshin:YamaarashiTailwind": {
+    "NAME": "山岚残芯",
+    "DESCRIPTION": "获得 !M! 点 genshin:元素精通 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 genshin:元素精通 。"
+  },
+  "genshin:IllusoryHeart": {
+    "NAME": "心景幻成",
+    "DESCRIPTION": "获得 !M! 点 genshin:元素精通 ,每回合开始降低1点。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 genshin:元素精通 ,每回合开始降低1点。"
+  },
+  "genshin:AllSchemestoKnow": {
+    "NAME": "所闻遍计",
+    "DESCRIPTION": "对所有角色施加 !M! 层 genshin:草 元素，获得1层 人工制品 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "对所有角色施加 !M! 层 genshin:草 元素，获得1层 人工制品 。 NL 消耗 。"
+  },
+  "genshin:LetThePeopleRejoice": {
+    "NAME": "万众狂欢",
+    "DESCRIPTION": "每次触发一层 genshin:水 元素反应获得 !M! 层 临时生命 。",
+    "UPGRADE_DESCRIPTION": "每次触发一层 genshin:水 元素反应获得 !M! 层 临时生命 。"
+  },
+  "genshin:SalonSolitaire": {
+    "NAME": "孤心沙龙",
+    "DESCRIPTION": "选择获得5层 再生 或者获得 !M! 点 临时生命 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择获得6层 再生 或者获得 !M! 点 临时生命 。 NL 消耗 。"
+  },
+  "genshin:SecretArtMusouShinsetsu": {
+    "NAME": "奥义·梦想真说",
+    "DESCRIPTION": "造成 !D! 点群体伤害，本场战斗中每生成一层 genshin:雷 元素增加一点伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点群体伤害，本场战斗中每生成一层 genshin:雷 元素增加一点伤害。"
+  },
+  "genshin:MusouIsshin": {
+    "NAME": "梦想一心",
+    "DESCRIPTION": "每次触发 genshin:雷 元素反应，获得 !M! 点 能量 。",
+    "UPGRADE_DESCRIPTION": "每次触发 genshin:雷 元素反应，获得 !M! 点 能量 。"
+  },
+  "genshin:DominusLapidis": {
+    "NAME": "地心",
+    "DESCRIPTION": "获得6层 多层护甲 ，对所有敌人触发 genshin:结晶 ，对所有敌人施加 !M! 层 易伤 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得8层 多层护甲 ，对所有敌人触发 genshin:结晶 ，对所有敌人施加 !M! 层 易伤 。 NL 消耗 。"
+  },
+  "genshin:PlanetBefall": {
+    "NAME": "天星",
+    "DESCRIPTION": "造成 !D! 点伤害，获得 !B! 点 格挡 ，触发 genshin:结晶 ，根据消耗的层数*2额外增加伤害和 格挡 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，获得 !B! 点 格挡 ，触发 genshin:结晶 ，根据消耗的层数*2额外增加伤害和 格挡 。"
+  },
+  "genshin:SkywardSonnet": {
+    "NAME": "高天之歌",
+    "DESCRIPTION": "抽 !M! 张牌，在本回合 保留 !M! 张手上的牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌，在本回合 保留 !M! 张手上的牌。 NL 消耗 。"
+  },
+  "genshin:WindsGrandOde": {
+    "NAME": "风神之诗",
+    "DESCRIPTION": " 虚无 NL 触发 genshin:扩散 和 genshin:结晶 时将不再消耗目标身上的元素。",
+    "UPGRADE_DESCRIPTION": "触发 genshin:扩散 和 genshin:结晶 时将不再消耗目标身上的元素。"
+  },
+  "genshin:TheBestTravelCompanionEver": {
+    "NAME": "最好的伙伴",
+    "DESCRIPTION": "腾跃,结束这个回合，再次获得一个回合。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "腾跃,结束这个回合，再次获得一个回合。 NL 消耗 。"
+  },
+  "genshin:TheCalloftheAbyss": {
+    "NAME": "深渊的呼唤",
+    "DESCRIPTION": "失去 !M! 点 genshin:元素精通 ，获得 !M! 点 力量 和 !M! 点 敏捷 ",
+    "UPGRADE_DESCRIPTION": "失去 !M! 点 genshin:元素精通 ，获得 !M! 点 力量和 !M! 点 敏捷"
+  },
+  "genshin:SustainerofHeavenlyPrinciples": {
+    "NAME": "天理的维系者",
+    "DESCRIPTION": "将目标身上的元素量变成2倍。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将目标身上的元素量变成3倍。 NL 消耗 。"
+  },
+  "genshin:GetTempHP": {
+    "NAME": "临时生命",
+    "DESCRIPTION": "获得 !M! 点 临时生命 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 临时生命 。"
+  },
+  "genshin:GetHealing": {
+    "NAME": "回复",
+    "DESCRIPTION": "获得 !M! 点 再生 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 再生 。"
+  },
+  "genshin:OTidesIHaveReturned": {
+    "NAME": "潮水啊，我已归来",
+    "DESCRIPTION": "失去所有 !M! 层 临时生命 ，对所有敌人造成3次（3+ !M! ）点伤害。",
+    "UPGRADE_DESCRIPTION": "失去所有 !M! 层 临时生命 ，对所有敌人造成4次（3+ !M! ）点伤害。"
+  },
+  "genshin:StatuesofTheSeven": {
+    "NAME": "七天神像",
+    "DESCRIPTION": "转换目标身上的元素成任意指定的元素。",
+    "UPGRADE_DESCRIPTION": " 保留 NL 转换目标身上的元素成任意指定的元素。"
+  },
+  "genshin:Traveller": {
+    "NAME": "旅行的意义",
+    "DESCRIPTION": "造成 !D! 点伤害，施加 !M! 层随机元素。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，施加 !M! 层选择元素。"
+  },
+  "genshin:WildStar": {
+    "NAME": "荒星",
+    "DESCRIPTION": "保留 NL 消耗 NL 获得 !B! 点 格挡 ，触发 genshin:结晶 。",
+    "UPGRADE_DESCRIPTION": "保留 NL 消耗 NL 获得 !B! 点 格挡 ，触发 genshin:结晶。"
+  },
+  "genshin:ElementalFurnace": {
+    "NAME": "元素熔炉",
+    "DESCRIPTION": "造成 !D! 点伤害，每在本场战斗中触发一种元素反应费用减1。 NL ( 水火,水雷,水冰,水草,火雷,火冰,火草,雷冰,雷草,冰草,扩散,结晶, )",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，每在本场战斗中触发一种元素反应费用减1。 NL ( 水火,水雷,水冰,水草,火雷,火冰,火草,雷冰,雷草,冰草,扩散,结晶, )"
+  },
+  "genshin:GoneWithTheWind": {
+    "NAME": "随风而去吧",
+    "DESCRIPTION": "每次触发 genshin:扩散 元素反应，抽取1张牌 。",
+    "UPGRADE_DESCRIPTION": "每次触发 genshin:扩散 元素反应，抽取1张牌 。"
+  },
+  "genshin:Stormbreaker": {
+    "NAME": "斫雷",
+    "DESCRIPTION": "获得 !B! 点 格挡 ，在这个回合中，每受到一次攻击给予攻击者 !M! 层 genshin:雷 元素。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 ，在这个回合中，每受到一次攻击给予攻击者 !M! 层 genshin:雷 元素。"
+  },
+  "genshin:ElementalPrimitive": {
+    "NAME": "元素初生",
+    "DESCRIPTION": "每在这场战斗中触发一种反应获得一点能量。 NL 获得 !M! 点能量。 NL ( 水火,水雷,水冰,水草,火雷,火冰,火草,雷冰,雷草,冰草,扩散,结晶, )",
+    "UPGRADE_DESCRIPTION": "每在这场战斗中触发一种反应获得一点能量。 NL 获得 !M! 点能量。 NL ( 水火,水雷,水冰,水草,火雷,火冰,火草,雷冰,雷草,冰草,扩散,结晶, )"
+  },
+  "genshin:LettheShowBegin": {
+    "NAME": "演唱，开始",
+    "DESCRIPTION": "获得5点 临时生命 ，对所有怪物施加 !M! 层 genshin:水 元素附着。",
+    "UPGRADE_DESCRIPTION": "获得7点 临时生命 ，对所有怪物施加 !M! 层 genshin:水 元素附着。"
+  },
+  "genshin:JumpyDumpty": {
+    "NAME": "蹦蹦炸弹",
+    "DESCRIPTION": "造成3次随机 !M! 层 genshin:火 元素附着。",
+    "UPGRADE_DESCRIPTION": "造成4次随机 !M! 层 genshin:火 元素附着。"
+  },
+  "genshin:IcetideVortex": {
+    "NAME": "冰潮的涡旋",
+    "DESCRIPTION": "造成 !D! 点伤害, NL 若对方身上有 虚弱 则施加 !M! 层 genshin:冰 元素。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, NL 若对方身上有 虚弱 则施加 !M! 层 genshin:冰 元素。"
+  },
+  "genshin:GlacialIllumination": {
+    "NAME": "凝浪之光剑",
+    "DESCRIPTION": "造成 !D! 点伤害, NL 在这个回合每打出一张攻击牌就造成 !M! 层 genshin:冰 元素附着 NL 总共 !M2! 次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, NL 在这个回合每打出一张攻击牌就造成 !M! 层 genshin:冰 元素附着 NL 总共 !M2! 次。"
+  },
+  "genshin:CeremonialCrystalshot": {
+    "NAME": "典仪式晶火",
+    "DESCRIPTION": "造成 !D! 点伤害, NL 将一张荒星加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, NL 将一张荒星加入你的手牌。"
+  },
+  "genshin:AstheSunlitSkysSingingSalute": {
+  "NAME": "如霰澄天的鸣礼",
+  "DESCRIPTION": "每回合开始将一张荒星加入你的手牌。",
+  "UPGRADE_DESCRIPTION": " 固有 NL 每回合开始将一张荒星加入你的手牌。"
+  },
+  "genshin:IcyPaws": {
+    "NAME": "猫爪冻冻",
+    "DESCRIPTION": "获得 !B! 点 格挡 ，对目标施加 !M! 层 genshin:冰 元素。",
+    "UPGRADE_DESCRIPTION": " 获得 !B! 点 格挡 ，对目标施加 !M! 层 genshin:冰 元素。"
+  },
+  "genshin:SpringSpiritSummoning": {
+    "NAME": "仰灵威召将役咒",
+    "DESCRIPTION": "造成 !D! 点伤害， NL 获得 !B! 点 格挡 ， NL 每次触发 genshin:冰 元素反应就从弃牌堆回到手牌。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害， NL 获得 !B! 点 格挡 ， NL 每次触发 genshin:冰 元素反应就从弃牌堆回到手牌。"
+  },
+  "genshin:KamisatoArtSoumetsu": {
+    "NAME": "神里流霜灭",
+    "DESCRIPTION": "对所有敌人造成 !M! 层冰元素附着x次。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !M! 层冰元素附着x次。"
+  },
+  "genshin:CelestialShower": {
+    "NAME": "降众天华",
+    "DESCRIPTION": "回合开始时，敌人失去 虚弱 层数点生命。",
+    "UPGRADE_DESCRIPTION": "回合开始时，敌人失去 虚弱 层数点生命。"
+  },
+  "genshin:AdeptusArtHeraldofFrost": {
+    "NAME": "仙法寒病鬼差",
+    "DESCRIPTION": "施加 !M! 层 genshin:冰 元素，每当目标敌人收到攻击时，生成 !M2! 点 临时生命 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "施加 !M! 层 genshin:冰 元素，每当目标敌人收到攻击时，生成 !M2! 点 临时生命 。 NL 消耗 。"
+  },
+  "genshin:ElementalRainbow": {
+    "NAME": "元素彩虹",
+    "DESCRIPTION": "回合开始时，随机对所有怪物施加 !M! 层元素。",
+    "UPGRADE_DESCRIPTION": "回合开始时，选择对所有怪物施加 !M! 层元素。"
+  },
+  "genshin:SpiritBladeChonghuasLayeredFrost": {
+    "NAME": "灵刃·重华叠霜",
+    "DESCRIPTION": "为下一次攻击附加造成未被格挡的伤害的 genshin:冰 元素层数附着。",
+    "UPGRADE_DESCRIPTION": " 保留 NL 为下一次攻击附加造成未被格挡的伤害的 genshin:冰 元素层数附着。"
+  },
+  "genshin:Breastplate": {
+    "NAME": "护心铠",
+    "DESCRIPTION": "当自身存在 格挡 时，每受到一次攻击获得 !M! 层 临时生命 。",
+    "UPGRADE_DESCRIPTION": "当自身存在 格挡 时，每受到一次攻击获得 !M! 层 临时生命 。"
+  },
+  "genshin:GaleBlade": {
+    "NAME": "风压剑",
+    "DESCRIPTION": "造成 !D! 点伤害，将 !M! 张风种子加入手牌中。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，将 !M! 张风种子加入手牌中。"
+  },
+  "genshin:MagicTrickAstonishingShift": {
+    "NAME": "魔术运变惊奇",
+    "DESCRIPTION": "每个回合结束时将一张风种子加入抽牌堆中。",
+    "UPGRADE_DESCRIPTION": " 固有 NL ,每个回合结束时将一张风种子加入抽牌堆中。"
+  },
+  "genshin:AnemoSeed": {
+    "NAME": "风种子",
+    "DESCRIPTION": " 保留 NL 抽1张牌，若触发 genshin:扩散 反应则额外抽 !M! 张牌。 NL 消耗 。 ",
+    "UPGRADE_DESCRIPTION": " 保留 NL 消耗 NL 抽1张牌，若触发 genshin:扩散 反应则额外抽 !M! 张牌。 NL 消耗 。 "
+  },
+  "genshin:StellarRestoration": {
+    "NAME": "星斗归位",
+    "DESCRIPTION": " 造成 !D! 点伤害，若敌方身上有 genshin:雷 元素则再次造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害，若敌方身上有 genshin:雷 元素则再次造成 !D! 点伤害。"
+  },
+  "genshin:YakanEvocationSesshouSakura": {
+    "NAME": "野干役咒·杀生樱",
+    "DESCRIPTION": "施加 !M! 层 genshin:雷 元素，每打出一次在这场战斗中增加 !M2! 层。",
+    "UPGRADE_DESCRIPTION": "施加 !M! 层 genshin:雷 元素，每打出一次在这场战斗中增加 !M2! 层。"
+  },
+  "genshin:LightningRose": {
+    "NAME": "蔷薇的雷光",
+    "DESCRIPTION": " 消耗 NL 对所有怪物施加 !M! 层 genshin:雷 ，若触发雷元素反应则继续施加 !M! 层雷元素，直到不再触发雷元素反应。",
+    "UPGRADE_DESCRIPTION": " 消耗 NL 对所有怪物施加 !M! 层 genshin:雷 ，若触发雷元素反应则继续施加 !M! 层雷元素，直到不再触发雷元素反应。"
+  },
+  "genshin:SanctifyingRing": {
+    "NAME": "越祓雷草之轮",
+    "DESCRIPTION": "造成 !D! 点伤害， NL 若在这个回合中触发过雷元素反应则回复 [E] [E] 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害， NL 若在这个回合中触发过雷元素反应则回复 [E] [E] 。"
+  },
+  "genshin:SecretRiteTwilightShadowpiercer": {
+    "NAME": "古仪·鸣砂掣雷",
+    "DESCRIPTION": "施加 !M! 层 genshin:雷 元素，若触发雷元素反应则回复 [E] ",
+    "UPGRADE_DESCRIPTION": "施加 !M! 层 genshin:雷 元素，若触发雷元素反应则回复 [E] "
+  },
+  "genshin:JadeScreen": {
+    "NAME": "璇玑屏",
+    "DESCRIPTION": "获得 !B! 点 格挡 ，触发 genshin:结晶 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 ，触发 genshin:结晶 。"
+  },
+  "genshin:AstableAnemohypostasisCreation6308": {
+    "NAME": "风灵作成·陆叁零捌",
+    "DESCRIPTION": "触发 genshin:扩散 ，将1张风种子加入手牌中",
+    "UPGRADE_DESCRIPTION": "触发两次 genshin:扩散 ，将1张风种子加入手牌中"
+  },
+  "genshin:HolisticRevivification": {
+    "NAME": "愈气全形论",
+    "DESCRIPTION": "获得 !B! 点 格挡 ，在这一回合每次受到攻击生成 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 ，在这一回合每次受到攻击生成 !M! 点 格挡 。"
+  },
+  "genshin:UniversalityAnElaborationonForm": {
+    "NAME": "共相·理式摹写",
+    "DESCRIPTION": "若敌人身上有 genshin:草 元素则造成 !D! 点伤害，若没有则额外施加 !M! 层草元素。",
+    "UPGRADE_DESCRIPTION": "若敌人身上有 genshin:草 元素则造成 !D! 点伤害，若没有则额外施加 !M! 层草元素。"
+  },
+  "genshin:ParticularFieldFettersofPhenomena": {
+    "NAME": "殊境·显象缚结",
+    "DESCRIPTION": "若敌人的目标是攻击则获得 !B! 点 格挡 ，否则施加 !M! 层 genshin:草 。",
+    "UPGRADE_DESCRIPTION": "若敌人的目标是攻击则获得 !B! 点 格挡 ，否则施加 !M! 层 genshin:草 。"
+  },
+  "genshin:GuidetoAfterlife": {
+    "NAME": "蝶引来生",
+    "DESCRIPTION": "失去5点生命，获得 !M! 点 力量 。",
+    "UPGRADE_DESCRIPTION": "失去5点生命，获得 !M! 点 力量 。"
+  },
+  "genshin:SpiritSoother": {
+    "NAME": "安神秘法",
+    "DESCRIPTION": "对所有敌人造成 !D! 伤害， NL 失去4点 力量 ， NL 回合结束时恢复4点力量 NL 当前每有一个敌人回复4点 临时生命 。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 伤害， NL 失去4点 力量 ， NL 回合结束时恢复4点力量 NL 当前每有一个敌人回复6点 临时生命 。"
+  },
+  "genshin:FantasticVoyage": {
+    "NAME": "美妙旅程",
+    "DESCRIPTION": "基于本场战斗的最高力量加成此回合的 力量 。",
+    "UPGRADE_DESCRIPTION": "基于本场战斗的最高力量加成此回合的 力量 。"
+  },
+  "genshin:AllIsAsh": {
+    "NAME": "万相化灰",
+    "DESCRIPTION": "施加 !M! 层 genshin:火 ，每打出一次本场战斗降低一层。",
+    "UPGRADE_DESCRIPTION": "施加 !M! 层 genshin:火 ，每打出一次本场战斗降低一层。"
+  },
+  "genshin:SearingOnslaught": {
+    "NAME": "逆焰之刃",
+    "DESCRIPTION": "造成 !M! 次 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !M! 次 !D! 点伤害。"
+  },
+  "genshin:ExplosivePuppet": {
+    "NAME": "爆弹玩偶",
+    "DESCRIPTION": "下个回合开始时,对所有敌人造成 !M! 层 genshin:火 附魔。",
+    "UPGRADE_DESCRIPTION": "下个回合开始时，对所有敌人造成 !M! 层  genshin:火 附魔。"
+  },
+  "genshin:NiwabiFireDance": {
+    "NAME": "焰硝庭火舞",
+    "DESCRIPTION": " 保留 NL 造成 !M! 层 genshin:火 附魔，每保留一回合这场战斗层数+3。",
+    "UPGRADE_DESCRIPTION": " 保留 NL 造成 !M! 层 genshin:火 附魔，每保留一回合这场战斗层数+4。"
+  },
+  "genshin:Dendrogranum": {
+    "NAME": "草种子",
+    "DESCRIPTION": " 保留 NL 消耗 NL 造成 !M! 次 !D! 伤害。 NL 失去 !M! 生命。",
+    "UPGRADE_DESCRIPTION": " 保留 NL 消耗 NL 造成 !M! 次 !D! 伤害。"
+  },
+  "genshin:RyuukinSaxifrage": {
+    "NAME": "琉金云间草",
+    "DESCRIPTION": "造成 !D! 点伤害，每次触发 genshin:火 元素反应就从弃牌堆回到手牌。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害，每次触发 genshin:火 元素反应就从弃牌堆回到手牌。"
+  },
+  "genshin:SparksnSplash": {
+    "NAME": "轰轰火花",
+    "DESCRIPTION": "造成 !D! 点伤害，若自身身上有 力量 则额外施加 !M! 层 genshin:火 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，若自身身上有 力量 则额外施加 !M! 层 genshin:火 。"
+  },
+  "genshin:MoltenInferno": {
+    "NAME": "熔铁流狱",
+    "DESCRIPTION": "失去所有 活力 和 genshin:坚韧 NL 每有一点 活力 获得一点 力量 。 每有一点 genshin:坚韧 获得一点 敏捷 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "保留 NL 失去所有 活力 和 genshin:坚韧 NL 每有一点 活力 获得一点 力量 。 每有一点 genshin:坚韧 获得一点 敏捷 。 NL 消耗 。"
+  },
+  "genshin:NereidsAscension": {
+    "NAME": "海月之誓",
+    "DESCRIPTION": "若对方目标是攻击则获得7点 临时生命 ，否则施加 !M! 层 genshin:水 。",
+    "UPGRADE_DESCRIPTION": "若对方目标是攻击则获得9点 临时生命 ，否则施加 !M! 层 genshin:水 。"
+  },
+  "genshin:WandaInternational": {
+    "NAME": "万达国际",
+    "DESCRIPTION": "施加 !M! 层 genshin:水 然后施加 !M! 层 genshin:火 。",
+    "UPGRADE_DESCRIPTION": "施加 !M! 层 genshin:水 然后施加 !M! 层 genshin:火 。"
+  },
+  "genshin:SuperSaturatedSyringing": {
+    "NAME": "过饱和心意注射",
+    "DESCRIPTION": "造成 临时生命 点数的伤害。共 !M! 点伤害",
+    "UPGRADE_DESCRIPTION": "造成 临时生命 点数+3的伤害。共 !M! 点伤害"
+  },
+  "genshin:ReboundHydrotherapy": {
+    "NAME": "弹跳水疗法",
+    "DESCRIPTION": "造成 !D! 点伤害，若杀死了敌人获得 !M! 点生命。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，若杀死了敌人获得 !M! 点生命。"
+  },
+  "genshin:RiteofProgenitureTectonicTide": {
+    "NAME": "诞生式·大地之潮",
+    "DESCRIPTION": "消耗掉牌堆中所有的状态牌，每张获得 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "消耗掉牌堆中所有的状态牌，每张获得 !M! 点 格挡 。"
+  },
+  "genshin:GuhuaSwordRaincutter": {
+    "NAME": "古华剑·裁雨留虹",
+    "DESCRIPTION": "对全体怪物施加 !M! 层 genshin:水 ，将一张粘液放入弃牌堆中。",
+    "UPGRADE_DESCRIPTION": "对全体怪物施加 !M! 层 genshin:水 ，将一张粘液放入弃牌堆中。"
+  },
+  "genshin:DanceofHaftkarsvar": {
+    "NAME": "七域舞步",
+    "DESCRIPTION": "生成的草种子不再失去生命,基础伤害增加4。",
+    "UPGRADE_DESCRIPTION": " 固有 NL 生成的草种子不再失去生命,基础伤害增加4。"
+  },
+  "genshin:ElementalBlessing": {
+    "NAME": "元素祝福",
+    "DESCRIPTION": "下个回合施加的元素量翻倍。",
+    "UPGRADE_DESCRIPTION": "下个回合施加的元素量翻倍。"
+  },
+  "genshin:BaneofAllEvil": {
+    "NAME": "靖妖傩舞",
+    "DESCRIPTION": "对所有怪物触发 genshin:扩散 ，结束你的回合。",
+    "UPGRADE_DESCRIPTION": " 保留 NL 对所有怪物触发 genshin:扩散 ，结束你的回合。"
+  },
+  "genshin:SubjugationKoukouSendou": {
+    "NAME": "煌煌千道镇式",
+    "DESCRIPTION": "对全体怪物施加 !M! 层 genshin:雷 ，将一张虚空放入弃牌堆中。",
+    "UPGRADE_DESCRIPTION": "对全体怪物施加 !M! 层 genshin:雷 ，将一张虚空放入弃牌堆中。"
+  },
+  "genshin:MeowteorKick": {
+    "NAME": "呜喵町飞足",
+    "DESCRIPTION": "获得 !B! 点 格挡 ，施加 !M! 层 genshin:草 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 ，施加 !M! 层 genshin:草 。"
+  },
+  "genshin:AromaticExplication": {
+    "NAME": "香氛演绎",
+    "DESCRIPTION": "每有一个敌人施加 !M! 层 genshin:草 。",
+    "UPGRADE_DESCRIPTION": "每有一个敌人施加 !M! 层 genshin:草 。"
+  },
+  "genshin:Dawn": {
+    "NAME": "黎明",
+    "DESCRIPTION": "对全体怪物施加 !M! 层 genshin:火 ，将一张灼伤放入弃牌堆中。",
+    "UPGRADE_DESCRIPTION": "对全体怪物施加 !M! 层 genshin:火 ，将一张灼伤放入弃牌堆中。"
+  },
+  "genshin:YoohooArtFuuinDash": {
+    "NAME": "呜呼流·风隐急进",
+    "DESCRIPTION": "造成 !D! 点伤害，下回合多抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，下回合多抽 !M! 张牌。"
+  },
+  "genshin:CliffbreakersBanner": {
+    "NAME": "旋云开相",
+    "DESCRIPTION": "触发 genshin:结晶 反应，施加 !M! 层 虚弱 。",
+    "UPGRADE_DESCRIPTION": "触发 genshin:结晶 反应，施加 !M! 层 虚弱 。"
+  },
+  "genshin:ElementLocking": {
+    "NAME": "元素锁定",
+    "DESCRIPTION": "造成 !D! 点伤害和 !M! 回合的 genshin:元素锁定 效果。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害和 !M! 回合的 genshin:元素锁定 效果。"
+  },
+  "genshin:ElementalDriver": {
+    "NAME": "元素冲击",
+    "DESCRIPTION": "造成 !D! 点伤害 NL 每在这个回合触发过一种元素反应抽1张牌 NL 共抽 !M! 张牌。 NL ( 水火,水雷,水冰,水草, NL 火雷,火冰,火草,雷冰, NL 雷草,冰草,扩散,结晶, )",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 NL 每在这个回合触发过一种元素反应抽1张牌 NL 共抽 !M! 张牌。 NL ( 水火,水雷,水冰,水草, NL 火雷,火冰,火草,雷冰, NL 雷草,冰草,扩散,结晶, )"
+  },
+  "genshin:RerivePraise": {
+    "NAME": "苏生的礼赞护罩",
+    "DESCRIPTION": "消耗 NL 若在你的回合结束时仍在手牌中，则施加 !M! 层 缠绕 。",
+    "UPGRADE_DESCRIPTION": "消耗 NL 若在你的回合结束时仍在手牌中，则施加 !M! 层 缠绕 。"
+  }
+
+}

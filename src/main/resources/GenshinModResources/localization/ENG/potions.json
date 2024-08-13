@@ -1,0 +1,32 @@
+{
+  "genshin:UnmovingEssentialOil": {
+    "NAME": "UnmovingEssentialOil",
+    "DESCRIPTIONS": [
+      "Add #b2 #yWildStar to your hand"
+    ]
+  },
+  "genshin:GushingEssentialOil": {
+    "NAME": "GushingEssentialOil",
+    "DESCRIPTIONS": [
+      "Add #b2 #yAnemoSeed to your hand."
+    ]
+  },
+  "genshin:ForestEssentialOil": {
+    "NAME": "ForestEssentialOil",
+    "DESCRIPTIONS": [
+      "Gain #b2 #yElementalMastery."
+    ]
+  },
+  "genshin:FlamingEssentialOil": {
+    "NAME": "FlamingEssentialOil",
+    "DESCRIPTIONS": [
+      "Apply #b10 #yPyro to ALL enemies."
+    ]
+  },
+  "genshin:StreamingEssentialOil": {
+    "NAME": "StreamingEssentialOil",
+    "DESCRIPTIONS": [
+      "Gain #b15 #ytemporary_hp."
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "keywords": [
+    {
+      "NAMES":[
+        "hydro",
+        "hydro.",
+        "hydro。",
+        "水",
+        "水.",
+        "水。"
+      ],
+      "DESCRIPTION": "[#0000FF]Hydro [#FF0000]Pyro :Deals elemental stacks consumed * 2 damage. NL [#0000FF]Hydro [#BFEFFF]Cryo :Apply elemental stacks consumed #yWeak. NL [#0000FF]Hydro [#912CEE]Electro :Deals elemental stacks consumed damage to ALL enemies. NL [#0000FF]Hydro [#32CD32]Dentro :Spawns #yDendrogranum that consumes stacks."
+    },
+    {
+      "NAMES":[
+        "pyro",
+        "pyro.",
+        "pyro。",
+        "火",
+        "火.",
+        "火。"
+      ],
+      "DESCRIPTION": "[#FF0000]Pyro [#0000FF]Hydro :Deals elemental stacks consumed * 2 damage. NL [#FF0000]Pyro [#BFEFFF]Cryo :Deals elemental stacks consumed * 2 damage. NL [#FF0000]Pyro [#912CEE]Electro :Deals elemental stacks consumed * 2 damage to ALL enemies. NL Add a #yBurn into your discard pile. NL [#FF0000]Pyro [#32CD32]Dentro :Gain elemental stacks consumed #yStrength. NL At the end of this turn, lose elemental stacks consumed #yStrength."
+    },
+    {
+      "NAMES":[
+        "electro",
+        "electro.",
+        "electro。",
+        "雷",
+        "雷.",
+        "雷。"
+      ],
+      "DESCRIPTION": "[#912CEE]Electro [#0000FF]Hydro :Deals elemental stacks consumed damage to ALL enemies. NL [#912CEE]Electro [#FF0000]Pyro :Deals elemental stacks consumed * 2 damage to ALL enemies. NL Add a #yBurn into your discard pile. NL [#912CEE]Electro [#BFEFFF]Cyro :Apply elemental stacks consumed #yVulnerable. NL [#912CEE]Electro [#32CD32]Dentro :Your next Attack deals elemental stacks consumed #yadditional damage,next Block gain elemental stacks consumed #yadditional block"
+    },
+    {
+      "NAMES": [
+        "cryo",
+        "cryo.",
+        "cryo。",
+        "冰",
+        "冰.",
+        "冰。"
+      ],
+      "DESCRIPTION": "[#BFEFFF]Cryo [#0000FF]Hydro :Apply elemental stacks consumed #yWeak. NL [#BFEFFF]Cryo [#FF0000]Pyro :Deals elemental stacks consumed * 2 damage. NL [#BFEFFF]Cryo Electro :Apply elemental stacks consumed #yVulnerable. NL [#BFEFFF]Cryo [#32CD32]Dentro :enemies lose elemental stacks consumed #yStrength this turn."
+    },
+    {
+      "NAMES": [
+        "dentro",
+        "dentro.",
+        "dentro。",
+        "草",
+        "草.",
+        "草。"
+      ],
+      "DESCRIPTION": "[#32CD32]Dentro [#0000FF]Hydro :Spawns #yDendrogranum that consumes stacks. NL [#32CD32]Dentro [#FF0000]Pyro :Gain elemental stacks consumed #yStrength. NL At the end of this turn, lose elemental stacks consumed #yStrength. NL [#32CD32]Dentro [#BFEFFF]Cryo :enemies lose elemental stacks consumed #yStrength this turn. NL [#32CD32]Dentro [#912CEE]Electro :Your next Attack deals elemental stacks consumed #yadditional damage,next Block gain elemental stacks consumed #yadditional block"
+    },
+    {
+      "NAMES": [
+        "elementalmastery",
+        "elementalmastery.",
+        "elementalmastery。",
+        "元素精通",
+        "元素精通.",
+        "元素精通。"
+      ],
+      "DESCRIPTION": "Increases the effect of applied elements."
+    },
+    {
+      "NAMES": [
+        "crystallization",
+        "crystallization.",
+        "crystallization。",
+        "结晶.",
+        "结晶",
+        "结晶。"
+      ],
+      "DESCRIPTION": "Consume all elements on the target to gain a #yBlock that consumes stacks * 2."
+    },
+    {
+      "NAMES": [
+        "diffusion",
+        "diffusion.",
+        "diffusion。",
+        "扩散",
+        "扩散.",
+        "扩散。"
+      ],
+      "DESCRIPTION": "Consumes all elemental stacks on the target, dealing damage as a stack and applying #y(1+ElementalMastery) stacks of elemental drain to all monsters."
+    },
+    {
+      "NAMES": [
+        "elementalLocking",
+        "elementalLocking.",
+        "elementalLocking。",
+        "元素锁定",
+        "元素锁定.",
+        "元素锁定。"
+      ],
+      "DESCRIPTION": "Increases the damage of Elemental Reflexes by 0.5."
+    },
+    {
+      "NAMES": [
+        "tenacity",
+        "tenacity.",
+        "tenacity。",
+        "坚韧",
+        "坚韧.",
+        "坚韧。"
+      ],
+      "DESCRIPTION": "Increases amount of next block"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "genshin:genshinwish": {
+    "NAME": "wish",
+    "DESCRIPTIONS": [
+      "You walk into the room and see a large number of #bBlue meteors and a small number of #yGolden meteors in the sky. NL They seem to be interested in the gold coins in your hand. NL Try it with #yGold Wish, and maybe you can draw something.",
+      "#r@Ahh @ NL It's all #bBlue but you're convinced that the next time it's going to be ......",
+      "#gSucceed! NL spent a lot of gold to make a wish, and you finally caught a #yrelic. NL you looked at the deflated #ywallet, but at least the withdrawal was made.",
+      "#gSucceed! NL single draws gold, and that #yGolden meteor crosses a nice arc. NL falls in front of you. NL lucky, it didn't seem to be crooked.",
+      "You decide to leave this place. NL The meteor still hovers overhead, tempting the next traveler."
+    ],
+    "OPTIONS": [
+      "[wish one] #rlose #r",
+      " #yGold。 #g",
+      "%: #gfind a relic。",
+      "[leave]",
+      "[wish ten] #rlose #r",
+      "[Lock] Need： "
+    ]
+  }
+}

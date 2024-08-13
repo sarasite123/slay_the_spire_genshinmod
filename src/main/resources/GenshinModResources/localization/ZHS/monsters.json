@@ -1,0 +1,75 @@
+{
+  "genshin:Dvalin": {
+    "MOVES": [
+      "龙息",
+      "流星群",
+      "龙舞",
+      "终天的闭幕曲",
+      "暴风涡漩",
+      "晕眩",
+      "眩晕"
+    ],
+    "NAME": "风魔龙·特瓦林",
+    "DIALOG": [
+      "哇袄！"
+    ]
+  },
+  "genshin:Azhdaha": {
+    "MOVES": [
+      "千里枯朽",
+      "古龙岩游",
+      "山崩岩殂",
+      "汲取水元素",
+      "汲取火元素",
+      "汲取雷元素",
+      "汲取冰元素"
+    ],
+    "NAME": "若陀龙王",
+    "DIALOG": [
+      "凡人，休得僭越！",
+      "摩拉克斯，是时候清算一切！"
+    ]
+  },
+  "genshin:PreliminaryProliferatingOrganism": {
+    "MOVES": [
+      "近战",
+      "远程"
+    ],
+    "NAME": "基础增殖生命体",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "genshin:PerniciousProliferatingOrganism": {
+    "MOVES": [
+      "破坏",
+      "爆炸"
+    ],
+    "NAME": "破坏的增殖生命体",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "genshin:ProvenderProliferatingOrganism": {
+    "MOVES": [
+      "强化",
+      "防御"
+    ],
+    "NAME": "养育的增殖生命体",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "genshin:Apep": {
+    "MOVES": [
+      "茂叶加遮",
+      "绿洲之心",
+      "软叶锯旋",
+      "末日余波"
+    ],
+    "NAME": "阿佩普的绿洲守望者",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

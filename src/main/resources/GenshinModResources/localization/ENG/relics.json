@@ -1,0 +1,93 @@
+{
+  "genshin:MyRelic": {
+    "NAME": "测试遗物",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，抽 #b1 张牌。"
+    ]
+  },
+  "genshin:Vision": {
+    "NAME": "Vision",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "The first time you Trigger Elemental Reaction each battle, gain [E] ."
+    ]
+  },
+  "genshin:Heart": {
+  "NAME": "Heart",
+  "FLAVOR": "这个人很懒，什么都没写",
+  "DESCRIPTIONS": [
+    "The first time you Trigger Elemental Reaction each turn, gain [E] ."
+  ]
+  },
+  "genshin:InstructorsCap": {
+  "NAME": "InstructorsCap",
+  "FLAVOR": "这个人很懒，什么都没写",
+  "DESCRIPTIONS": [
+    "Start each combat with #b1 #ygenshin:ElementalMastery ."
+  ]
+  },
+  "genshin:Hydroculus": {
+    "NAME": "Hydroculus",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b3 genshin:Hydro to ALL enemies."
+    ]
+  },
+  "genshin:ViridescentVenerer": {
+    "NAME": "ViridescentVenerer",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #ygenshin:Diffusion, apply #b1 #ygenshin:ElementalLocking ."
+    ]
+  },
+  "genshin:WitchsHeartFlames": {
+    "NAME": "WitchsHeartFlames",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "Every time you trigger #b10 #ygenshin:Pyro in a single turn, gain #b1 #yStrength."
+    ]
+  },
+  "genshin:FrostWeavedDignity": {
+    "NAME": "FrostWeavedDignity",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "Every time you trigger #b10 #ygenshin:Cryo in a single turn, gain #b1 #yDexterity."
+    ]
+  },
+  "genshin:DreamSolvent": {
+    "NAME": "DreamSolvent",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "Whenever an enemy dies, transfer any #yElemnet it has to a random enemy."
+    ]
+  },
+  "genshin:IntertwinedFate": {
+    "NAME": "IntertwinedFate",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "At the start of each combat, choose #b1 of #b3 random Rare cards and add the chosen card into your hand."
+    ]
+  },
+  "genshin:TenacityoftheMillelith": {
+    "NAME": "TenacityoftheMillelith",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "While your HP is at or below #b50%, you have #b3 #yDexterity 。"
+    ]
+  },
+  "genshin:PaimonsFoodFund": {
+  "NAME": "PaimonsFoodFund",
+  "FLAVOR": "这个人很懒，什么都没写",
+  "DESCRIPTIONS": [
+    "Whenever you use a potion,gain #b10 #yGold 。"
+  ]
+  },
+  "genshin:AcquaintFate": {
+    "NAME": "AcquaintFate",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "At the start of each combat, choose #b1 of #b3 random upgraded Rare cards and add the chosen card into your hand."
+    ]
+  }
+}

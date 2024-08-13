@@ -1,0 +1,220 @@
+{
+  "genshin:HydroPower": {
+    "NAME": "纯水",
+    "DESCRIPTIONS": [
+      " #y水 #y火 :造成消耗层数*2点伤害。 NL #y水 #y冰 :造成消耗层数层 #y虚弱 。 NL #y水 #y雷 :造成消耗层数点全体伤害。 NL #y水 #y草 :生成消耗层数面板的 #y草种子 (1费 保留 消耗 对目标造成x次6/9伤害 失去x生命）。"
+    ]
+  },
+  "genshin:PyroPower": {
+    "NAME": "纯火",
+    "DESCRIPTIONS": [
+      " #y火 #y水 :造成消耗层数*2点伤害。 NL #y火 #y冰 :造成消耗层数*2点伤害。 NL #y火 #y雷 :造成消耗层数*2点全体伤害，将一张 #y灼伤 放入弃牌堆。 NL #y火 #y草 :获得消耗层数点 #y临时力量 。"
+    ]
+  },
+  "genshin:ElectroPower": {
+    "NAME": "纯雷",
+    "DESCRIPTIONS": [
+      " #y雷 #y水 :造成消耗层数点全体伤害。 NL #y雷 #y火 :造成消耗层数*2点全体伤害，将一张 #y灼伤 放入弃牌堆。 NL #y雷 #y冰 :造成消耗层数层 #y易伤 。 NL #y雷 #y草 :获得消耗层数点 #y活力 (提升下一次的基础伤害),获得消耗层数点 #y坚韧 (提升下一次的格挡值) 。"
+    ]
+  },
+  "genshin:CryoPower": {
+    "NAME": "纯冰",
+    "DESCRIPTIONS": [
+      " #y冰  #y水 :造成消耗层数层 #y虚弱 。 NL #y冰 #y火 :造成消耗层数*2点伤害。 NL #y冰 #y雷 :造成消耗层数层 #y易伤 。 NL #y冰 #y草 :目标失去消耗层数点 #y力量 一回合。"
+    ]
+  },
+  "genshin:DentroPower": {
+    "NAME": "纯草",
+    "DESCRIPTIONS": [
+      " #y草 #y水 :生成消耗层数面板的 #y草种子 (1费 保留 消耗 对目标造成x次6/9伤害 失去x生命）。 NL #y草 #y火 :获得消耗层数点 #y临时力量 。 NL #y草 #y冰 :目标失去消耗层数点 #y力量 一回合。 NL #y草 #y雷 :获得消耗层数点 #y活力 (提升下一次的基础伤害),获得消耗层数点 #y坚韧 (提升下一次的格挡值) 。"
+    ]
+  },
+  "genshin:ElementalMasteryPower": {
+    "NAME": "元素精通",
+    "DESCRIPTIONS": [
+      "当你获得元素精通时，对目标施加元素额外提升 #b%d 层。",
+      "当你失去元素精通时，对目标施加元素额外降低 #b%d 层。"
+    ]
+  },
+  "genshin:BiasElementalMasteryPower": {
+    "NAME": "元素精通偏差",
+    "DESCRIPTIONS": [
+      "每回合开始时，失去 #b%d 层 #y元素精通 。"
+    ]
+  },
+  "genshin:HydroGainTempHPPower": {
+    "NAME": "生命之契",
+    "DESCRIPTIONS": [
+      "每有一层 #y水 元素反应，获得 #b%d 点 #y临时生命 。"
+    ]
+  },
+  "genshin:ElectroGainEnergyPower": {
+    "NAME": "充电宝",
+    "DESCRIPTIONS": [
+      "每次触发 #y雷 元素反应，获得 #b%d 点 [E]"
+    ]
+  },
+  "genshin:AnemoGeoCostPower": {
+    "NAME": "限制器",
+    "DESCRIPTIONS": [
+      "触发 #y扩散 和 #y结晶 反应时将不再消耗目标身上的元素"
+    ]
+  },
+  "genshin:AnemoGainAddCardPower": {
+    "NAME": "明天的方向",
+    "DESCRIPTIONS": [
+      "每次触发 #y扩散 反应，抽取 #b%d 张卡"
+    ]
+  },
+  "genshin:StormbreakerPower": {
+    "NAME": "斫雷",
+    "DESCRIPTIONS": [
+      "每次被攻击给予攻击者 #b%d 层 #y雷 元素"
+    ]
+  },
+  "genshin:StartGainWildStarPower": {
+    "NAME": "如霰澄天的鸣礼",
+    "DESCRIPTIONS": [
+      "每回合开始将 #b%d 张 #y荒星 加入你的手牌"
+    ]
+  },
+  "genshin:WeakLoseHPPower": {
+    "NAME": "降众天华",
+    "DESCRIPTIONS": [
+      "回合开始时，敌人失去 #y虚弱 层数乘 #b%d 点生命"
+    ]
+  },
+  "genshin:AttackGainTempHPPower": {
+    "NAME": "仙法寒病鬼差",
+    "DESCRIPTIONS": [
+      "每当受到攻击时，生成 #b%d 点 #y临时生命 "
+    ]
+  },
+  "genshin:StartTurnApplyRandomElementPower": {
+  "NAME": "元素彩虹随机",
+  "DESCRIPTIONS": [
+    "每回合开始时, #y随机 给所有敌人附加 #b%d 层元素"
+  ]
+  },
+  "genshin:StartTurnApplySpecificElementPower": {
+    "NAME": "元素彩虹选择",
+    "DESCRIPTIONS": [
+      "每回合开始时, #y选择 给所有敌人附加 #b%d 层元素"
+    ]
+  },
+  "genshin:CryoReplaceDamagePower": {
+    "NAME": "灵刃·重华叠霜",
+    "DESCRIPTIONS": [
+      "为下一次的攻击增加相同伤害的 #y冰 元素附着"
+    ]
+  },
+  "genshin:EndGainAnemoSeedPower": {
+  "NAME": "魔术运变惊奇",
+  "DESCRIPTIONS": [
+    "每回合结束将 #b%d 张 #y风种子 加入你的抽牌堆"
+  ]
+  },
+  "genshin:BreastplatePower": {
+    "NAME": "护心甲",
+    "DESCRIPTIONS": [
+      "当自身存在 #y格挡 时，每受到一次攻击获得 #b%d 层 临时生命 "
+    ]
+  },
+  "genshin:HolisticRevivificationPower": {
+    "NAME": "愈气全形论",
+    "DESCRIPTIONS": [
+      "这个回合，每次失去生命时生成 #b%d 点 #格挡"
+    ]
+  },
+  "genshin:NextTurnPyroPower": {
+    "NAME": "爆弹玩偶",
+    "DESCRIPTIONS": [
+      "下回合对所有敌人造成 #b%d 层 #y火 附魔"
+    ]
+  },
+  "genshin:DanceofHaftkarsvarPower": {
+    "NAME": "七域舞步",
+    "DESCRIPTIONS": [
+      "生成的 #y草种子 不再失去生命。"
+    ]
+  },
+  "genshin:NextTurnDoubleElementPower": {
+    "NAME": "双倍元素",
+    "DESCRIPTIONS": [
+      "这个回合施加的元素量翻倍。"
+    ]
+  },
+  "genshin:ElemetalBlessingPower": {
+    "NAME": "元素赐福",
+    "DESCRIPTIONS": [
+      "下 #b%d 回合施加的元素量翻倍。"
+    ]
+  },
+  "genshin:ElemetalLockingPower": {
+    "NAME": "元素锁定",
+    "DESCRIPTIONS": [
+      "受到的元素反应伤害增加 #y0.5 ,持续 #b%d 回合。"
+    ]
+  },
+  "genshin:ViridescentVenererPower": {
+    "NAME": "翠绿之影",
+    "DESCRIPTIONS": [
+      "每次触发 #y扩散 反应时，对目标施加一层元素锁定。"
+    ]
+  },
+  "genshin:TenacityPower": {
+    "NAME": "坚韧",
+    "DESCRIPTIONS": [
+      "你的下一次格挡获得 #b%d 点额外格挡。"
+    ]
+  },
+  "genshin:CryoFreePower": {
+    "NAME": "冰免",
+    "DESCRIPTIONS": [
+      "无法被 #y冰 附着。"
+    ]
+  },
+  "genshin:PyroFreePower": {
+    "NAME": "火免",
+    "DESCRIPTIONS": [
+      "无法被 #y火 附着。"
+    ]
+  },
+  "genshin:ElectroFreePower": {
+    "NAME": "雷免",
+    "DESCRIPTIONS": [
+      "无法被 #y雷 附着。"
+    ]
+  },
+  "genshin:HydroFreePower": {
+    "NAME": "水免",
+    "DESCRIPTIONS": [
+      "无法被 #y水 附着。"
+    ]
+  },
+  "genshin:DentroFreePower": {
+    "NAME": "草免",
+    "DESCRIPTIONS": [
+      "无法被 #y草 附着。"
+    ]
+  },
+  "genshin:BlockLoseHPPower": {
+    "NAME": "地藏",
+    "DESCRIPTIONS": [
+      "回合结束时,若你的 #y格挡 小于 #b%d 则失去 #b%d 点生命。"
+    ]
+  },
+  "genshin:DeadHealingPower": {
+    "NAME": "养分",
+    "DESCRIPTIONS": [
+      "死亡时将给阿佩普回复 #b%d 点生命。"
+    ]
+  },
+  "genshin:ExplosivePower": {
+    "NAME": "破坏",
+    "DESCRIPTIONS": [
+      "在下个回合，自杀并给你施加 #b%d 层 #y缠绕 。",
+      "在 #b%d 个回合后，自杀并给你施加 #b%d 层 #y缠绕 。"
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "genshin:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage."
+  },
+  "genshin:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block."
+  },
+  "genshin:HelloDefend": {
+    "NAME": "HelloDefend",
+    "DESCRIPTION": "获得 !B! 点格挡。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "genshin:Hydro": {
+    "NAME": "Hydro",
+    "DESCRIPTION": "Apply genshin:Hydro.",
+    "UPGRADE_DESCRIPTION": "Apply genshin:Hydro."
+  },
+  "genshin:Pyro": {
+    "NAME": "Pyro",
+    "DESCRIPTION": "Apply genshin:Pyro.",
+    "UPGRADE_DESCRIPTION": "Apply genshin:Pyro."
+  },
+  "genshin:Dentro": {
+    "NAME": "Dentro",
+    "DESCRIPTION": "Apply genshin:Dentro.",
+    "UPGRADE_DESCRIPTION": "Apply genshin:Dentro."
+  },
+  "genshin:Cryo": {
+    "NAME": "Cryo",
+    "DESCRIPTION": "Apply genshin:Cryo.",
+    "UPGRADE_DESCRIPTION": "Apply genshin:Cryo."
+  },
+  "genshin:Electro": {
+    "NAME": "Electro",
+    "DESCRIPTION": "Apply genshin:Electro.",
+    "UPGRADE_DESCRIPTION": "Apply genshin:Electro."
+  },
+  "genshin:YamaarashiTailwind": {
+    "NAME": "Yamaarashi Tailwind",
+    "DESCRIPTION": "Gain !M! genshin:ElementalMastery.",
+    "UPGRADE_DESCRIPTION": "Gain !M! genshin:ElementalMastery."
+  },
+  "genshin:IllusoryHeart": {
+    "NAME": "Illusory Heart",
+    "DESCRIPTION": "Gain !M! genshin:ElementalMastery. NL At the start of your turn, lose 1 genshin:ElementalMastery.",
+    "UPGRADE_DESCRIPTION": "Gain !M! genshin:ElementalMastery. NL At the start of your turn, lose 1 genshin:ElementalMastery."
+  },
+  "genshin:AllSchemestoKnow": {
+    "NAME": "All Schemes to Know",
+    "DESCRIPTION": "Apply !M! genshin:Dentro to ALL enemies.Gain 1 Artifact. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Dentro to ALL enemies.Gain 1 Artifact. NL Exhaust."
+  },
+  "genshin:LetThePeopleRejoice": {
+    "NAME": "Let The People Rejoice",
+    "DESCRIPTION": "For each stack of genshin:Hydro Elemental Reaction, gain !M! temporary_hp.",
+    "UPGRADE_DESCRIPTION": "For each stack of genshin:Hydro Elemental Reaction, gain !M! temporary_hp."
+  },
+  "genshin:SalonSolitaire": {
+    "NAME": "Salon Solitaire",
+    "DESCRIPTION": "Choose one: NL Gain 5 Regen or Gain 15 temporary_hp. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose one: NL Gain 6 Regen or Gain 20 temporary_hp. NL Exhaust."
+  },
+  "genshin:SecretArtMusouShinsetsu": {
+    "NAME": "Secret Art Musou Shinsetsu",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies.Each stack of genshin:Electro element is increased by 1 damage per stack generated in this battle.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies.Each stack of genshin:Electro element is increased by 1 damage per stack generated in this battle."
+  },
+  "genshin:MusouIsshin": {
+    "NAME": "Musou Isshin",
+    "DESCRIPTION": "Every time you trigger the genshin:Electro elemental reaction, Gain !M! [E] .",
+    "UPGRADE_DESCRIPTION": "Every time you trigger the genshin:Electro elemental reaction, Gain !M! [E] ."
+  },
+  "genshin:DominusLapidis": {
+    "NAME": "Dominus Lapidis",
+    "DESCRIPTION": "Gain 6 Plated Armor. NL Trigger genshin:Crystallization to ALL enemies. NL Apply !M! Vulnerable to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Gain 8 Plated Armor. NL Trigger genshin:Crystallization to ALL enemies. NL Apply !M! Vulnerable to ALL enemies."
+  },
+  "genshin:PlanetBefall": {
+    "NAME": "Planet Befall",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Trigger genshin:Crystallization. NL Increases damage and Block based on the number of stacks consumed*2.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Trigger genshin:Crystallization. NL Increases damage and Block based on the number of stacks consumed*2."
+  },
+  "genshin:SkywardSonnet": {
+    "NAME": "Skyward Sonnet",
+    "DESCRIPTION": "draw !M! cards.NL Retain !M! cards in your hand this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "draw !M! cards.NL Retain !M! cards in your hand this turn. NL Exhaust."
+  },
+  "genshin:WindsGrandOde": {
+    "NAME": "Winds GrandOde",
+    "DESCRIPTION": " Ethereal. NL Triggering the genshin:Diffusion and genshin:Crystallization Reactions will no longer consume elemental on the target.",
+    "UPGRADE_DESCRIPTION": "Triggering the genshin:Diffusion and genshin:Crystallization Reactions will no longer consume elemental on the target."
+  },
+  "genshin:TheBestTravelCompanionEver": {
+    "NAME": "The Best Travel Companion Ever",
+    "DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Exhaust."
+  },
+  "genshin:TheCalloftheAbyss": {
+    "NAME": "The Call of the Abyss",
+    "DESCRIPTION": "Lose !M! genshin:ElementalMastery. NL Gain !M! Strength and !M! Dexterity.",
+    "UPGRADE_DESCRIPTION": "Lose !M! genshin:ElementalMastery. NL Gain !M! Strength and !M! Dexterity."
+  },
+  "genshin:SustainerofHeavenlyPrinciples": {
+    "NAME": "Sustainer of Heavenly Principles",
+    "DESCRIPTION": "Double the enemy's Element. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Triple the enemy's Element. NL Exhaust."
+  },
+  "genshin:GetTempHP": {
+    "NAME": "temporary_hp",
+    "DESCRIPTION": "Gain !M! temporary_hp.",
+    "UPGRADE_DESCRIPTION": "Gain !M! temporary_hp."
+  },
+  "genshin:GetHealing": {
+    "NAME": "Regen",
+    "DESCRIPTION": "Gain !M! Regen.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Regen."
+  },
+  "genshin:OTidesIHaveReturned": {
+    "NAME": "OTides I Have Returned",
+    "DESCRIPTION": "Lose ALL !M! temporary_hp.Deal ( 3 + !M! ) damage 3 times to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lose ALL !M! temporary_hp.Deal ( 3 + !M! ) damage 4 times to ALL enemies."
+  },
+  "genshin:StatuesofTheSeven": {
+    "NAME": "Statues of The Seven",
+    "DESCRIPTION": "Converts elements on the target into any specified element.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Converts elements on the target into any specified element."
+  },
+  "genshin:Traveller": {
+    "NAME": "Traveller",
+    "DESCRIPTION": "Deal !D! damage.Apply !M! random element.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage.Apply !M! chosen element."
+  },
+  "genshin:WildStar": {
+    "NAME": "WildStar",
+    "DESCRIPTION": "Retain. NL Exhaust. NL Gain !B! Block.Trigger genshin:Crystallization.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Exhaust. NL Gain !B! Block.Trigger genshin:Crystallization."
+  },
+  "genshin:ElementalFurnace": {
+    "NAME": "Elemental Furnace",
+    "DESCRIPTION": "Deal !D! damage. NL Costs 1 less [E] NL for each time you Trigger one different element reaction this combat. NL ( Hydro-Pyro, Hydro-Electro, Hydro-Cryo, Hydro-Dentro, Pyro-Electro, Pyro-Cryo, Pyro-Dentro, Electro-Cryo, Electro-Dentro, Cryo-Dentro, Diffusion, Crystallization, )",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Costs 1 less [E] NL for each time you Trigger one different element reaction this combat.  NL ( Hydro-Pyro, Hydro-Electro, Hydro-Cryo, Hydro-Dentro, Pyro-Electro, Pyro-Cryo, Pyro-Dentro, Electro-Cryo, Electro-Dentro, Cryo-Dentro, Diffusion, Crystallization, )"
+  },
+  "genshin:GoneWithTheWind": {
+    "NAME": "GoneWithTheWind",
+    "DESCRIPTION": "Each time trigger genshin:Diffusion. Draw 1 card to your hand.",
+    "UPGRADE_DESCRIPTION": "Each time trigger genshin:Diffusion. Draw 1 card to your hand."
+  },
+  "genshin:Stormbreaker": {
+    "NAME": "Stormbreaker",
+    "DESCRIPTION": "Gain !B! Block. At this turn,When attacked, apply !M! genshin:Electro back.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. At this turn,When attacked, apply !M! genshin:Electro back."
+  },
+  "genshin:ElementalPrimitive": {
+    "NAME": "Elemental Primitive",
+    "DESCRIPTION": "Gain 1 more [E] NL for each time you Trigger one different element reaction this combat. NL Gain !M! [E] . NL ( Hydro-Pyro, Hydro-Electro, Hydro-Cryo, Hydro-Dentro, Pyro-Electro, Pyro-Cryo, Pyro-Dentro, Electro-Cryo, Electro-Dentro, Cryo-Dentro, Diffusion, Crystallization, )",
+    "UPGRADE_DESCRIPTION": "Gain 1 more [E] NL for each time you Trigger one different element reaction this combat. NL Gain !M! [E] . NL ( Hydro-Pyro, Hydro-Electro, Hydro-Cryo, Hydro-Dentro, Pyro-Electro, Pyro-Cryo, Pyro-Dentro, Electro-Cryo, Electro-Dentro, Cryo-Dentro, Diffusion, Crystallization, )"
+  },
+  "genshin:LettheShowBegin": {
+    "NAME": "Let the Show Begin",
+    "DESCRIPTION": "Gain 5 temporary_hp. NL Apply !M! genshin:Hydro to ALL enermy.",
+    "UPGRADE_DESCRIPTION": "Gain 7 temporary_hp. NL Apply !M! genshin:Hydro to ALL enermy."
+  },
+  "genshin:JumpyDumpty": {
+    "NAME": "Jumpy Dumpty",
+    "DESCRIPTION": "Apply !M! genshin:Pyro to random enermy 3 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Pyro to random enermy 3 times."
+  },
+  "genshin:IcetideVortex": {
+    "NAME": "Icetide Vortex",
+    "DESCRIPTION": "Deal !D! damage, NL If the enemy has Weak, Apply !M! genshin:Cryo.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage, NL If the enemy has Weak, Apply !M! genshin:Cryo."
+  },
+  "genshin:GlacialIllumination": {
+    "NAME": "Glacial Illumination",
+    "DESCRIPTION": "Deal !D! damage, NL for each Attack played this turn,Apply !M! genshin:Cryo. NL ( !M2! Attack played.)",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage, NL for each Attack played this turn,Apply !M! genshin:Cryo. NL ( !M2! Attack played.)"
+  },
+  "genshin:CeremonialCrystalshot": {
+    "NAME": "Ceremonial Crystalshot",
+    "DESCRIPTION": "Deal !D! damage, NL add a WildStar to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage, NL add a WildStar to your hand."
+  },
+  "genshin:AstheSunlitSkysSingingSalute": {
+  "NAME": "As the Sunlit Skys Singing Salute",
+  "DESCRIPTION": "At the start of each turn, add a *WildStar into your hand.",
+  "UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a *WildStar into your hand."
+  },
+  "genshin:IcyPaws": {
+    "NAME": "Icy Paws",
+    "DESCRIPTION": "Gain !B! Block. Apply !M! genshin:Cryo.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. Apply !M! genshin:Cryo."
+  },
+  "genshin:SpringSpiritSummoning": {
+    "NAME": "Spring Spirit Summoning",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block . NL Whenever you trigger genshin:Cryo reaction, return this from the discard pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !B! Block .  NL Whenever you trigger genshin:Cryo reaction, return this from the discard pile to your hand."
+  },
+  "genshin:KamisatoArtSoumetsu": {
+    "NAME": "Kamisato Art Soumetsu",
+    "DESCRIPTION": "Apply !M! genshin:Cryo to ALL enemies X times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Cryo to ALL enemies X times."
+  },
+  "genshin:CelestialShower": {
+    "NAME": "Celestial Shower",
+    "DESCRIPTION": "At the start of the turn, the enemy loses Weak Stacks HP.",
+    "UPGRADE_DESCRIPTION": "At the start of the turn, the enemy loses Weak Stacks HP."
+  },
+  "genshin:AdeptusArtHeraldofFrost": {
+    "NAME": "Adeptus Art Herald of Frost",
+    "DESCRIPTION": "Apply !M! genshin:Cryo. Whenever you attack this enemy,gain !M2! temporary_hp. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Cryo. Whenever you attack this enemy,gain !M2! temporary_hp. NL Exhaust."
+  },
+  "genshin:ElementalRainbow": {
+    "NAME": "Elemental Rainbow",
+    "DESCRIPTION": "At the start of the turn,randomly apply !M! Element to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "At the start of the turn,choose to apply !M! Element to ALL enemies."
+  },
+  "genshin:SpiritBladeChonghuasLayeredFrost": {
+    "NAME": "Spirit Blade Chonghuas Layered Frost",
+    "DESCRIPTION": "Adds the same amount of damage to the next attack with genshin:Cryo.",
+    "UPGRADE_DESCRIPTION": "Retain NL Adds the same amount of damage to the next attack with genshin:Cryo."
+  },
+  "genshin:Breastplate": {
+    "NAME": "Breastplate",
+    "DESCRIPTION": "When Block exists, gain !M! temporary_hp for each attack taken.",
+    "UPGRADE_DESCRIPTION": "When Block exists, gain !M! temporary_hp for each attack taken."
+  },
+  "genshin:GaleBlade": {
+    "NAME": "Gale Blade",
+    "DESCRIPTION": "Deal !D! damge.add !M! AnemoSeed to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damge.add !M! AnemoSeed to your hand."
+  },
+  "genshin:MagicTrickAstonishingShift": {
+    "NAME": "Magic Trick Astonishing Shift",
+    "DESCRIPTION": "At the end of each turn, add a *AnemoSeed into your draw piles.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the end of each turn, add a *AnemoSeed into your draw piles."
+  },
+  "genshin:AnemoSeed": {
+    "NAME": "AnemoSeed",
+    "DESCRIPTION": "Retain. NL draw 1 card.if trigger genshin:Diffusion draw !M! card extra. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL draw 1 card.if trigger genshin:Diffusion draw !M! card extra. NL Exhaust."
+  },
+  "genshin:StellarRestoration": {
+    "NAME": "Stellar Restoration",
+    "DESCRIPTION": "Deal !D! damage.If the enemy has genshin:Electro Deal !D! damage again.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage.If the enemy has genshin:Electro Deal !D! damage again."
+  },
+  "genshin:YakanEvocationSesshouSakura": {
+    "NAME": "Yakan Evocation Sesshou Sakura",
+    "DESCRIPTION": "Apply !M! genshin:Electro. Increase this card's layers of the element applied by !M2! this combat.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Electro. Increase this card's layers of the element applied by !M2! this combat."
+  },
+  "genshin:LightningRose": {
+    "NAME": "Lightning Rose",
+    "DESCRIPTION": "Apply !M! genshin:Electro. NL If the genshin:Electro Reaction is triggered, continue to Apply !M! genshin:Electro. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Electro. NL If the genshin:Electro Reaction is triggered, continue to Apply !M! genshin:Electro. NL Exhaust."
+  },
+  "genshin:SanctifyingRing": {
+    "NAME": "Sanctifying Ring",
+    "DESCRIPTION": "Deal !M! damage. NL If you triggered Electro reaction in this turn, gain [E] [E] .",
+    "UPGRADE_DESCRIPTION": "Deal !M! damage. NL If you triggered Electro reaction in this turn, gain [E] [E] ."
+  },
+  "genshin:SecretRiteTwilightShadowpiercer": {
+    "NAME": "Secret Rite Twilight Shadowpiercer",
+    "DESCRIPTION": "Apply !M! genshin:Electro. If triggered genshin:Electro reaction, gain [E] .",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Electro. If triggered genshin:Electro reaction, gain [E] ."
+  },
+  "genshin:JadeScreen": {
+    "NAME": "Jade Screen",
+    "DESCRIPTION": "Gain !B! Block. Trigger genshin:Crystallization.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. Trigger genshin:Crystallization."
+  },
+  "genshin:AstableAnemohypostasisCreation6308": {
+    "NAME": "Astable Anemohypostasis Creation 6308",
+    "DESCRIPTION": "Trigger genshin:Diffusion. Add 1 AnemoSeed to your hand.",
+    "UPGRADE_DESCRIPTION": "Trigger genshin:Diffusion twice. Add 1 AnemoSeed to your hand."
+  },
+  "genshin:HolisticRevivification": {
+    "NAME": "Holistic Revivification",
+    "DESCRIPTION": "Gain !B! Block. Whenever you lose HP at this turn, gain !M! Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. Whenever you lose HP at this turn, gain !M! Block."
+  },
+  "genshin:UniversalityAnElaborationonForm": {
+    "NAME": "Universality An Elaborationon Form",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy does not have genshin:Dentro : NL Apply !M! genshin:Dentro.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If the enemy does not have genshin:Dentro : NL Apply !M! genshin:Dentro."
+  },
+  "genshin:ParticularFieldFettersofPhenomena": {
+    "NAME": "Particular Field Fetters of Phenomena",
+    "DESCRIPTION": "If the enemy intends to attack, Gain !B! Block. NL Otherwise Apply !M! genshin:Dentro.",
+    "UPGRADE_DESCRIPTION": "If the enemy intends to attack, Gain !B! Block. NL Otherwise Apply !M! genshin:Dentro."
+  },
+  "genshin:GuidetoAfterlife": {
+    "NAME": "Guide to Afterlife",
+    "DESCRIPTION": "Lose 5 HP. NL Gain !M! Strength.",
+    "UPGRADE_DESCRIPTION": "Lose 5 HP. NL Gain !M! Strength."
+  },
+  "genshin:SpiritSoother": {
+    "NAME": "Spirit Soother",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose 4 Strength. NL At the end of this turn, Gain 4 Strength. NL Gain 4 temporary_hp for each enemy in combat.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose 4 Strength. NL At the end of this turn, Gain 4 Strength. NL Gain 6 temporary_hp for each enemy in combat."
+  },
+  "genshin:FantasticVoyage": {
+    "NAME": "Fantastic Voyage",
+    "DESCRIPTION": "Strength of this turn is increased based on the maximum Strength of the combat.",
+    "UPGRADE_DESCRIPTION": "Strength of this turn is increased based on the maximum Strength of the combat."
+  },
+  "genshin:AllIsAsh": {
+    "NAME": "All Is Ash",
+    "DESCRIPTION": "Apply !M! genshin:Pyro. NL Decrease this card's Element layer by 1 this combat.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Pyro. NL Decrease this card's Element layer by 1 this combat."
+  },
+  "genshin:SearingOnslaught": {
+    "NAME": "Searing Onslaught",
+    "DESCRIPTION": "Deal !D! damage !M! times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times."
+  },
+  "genshin:ExplosivePuppet": {
+    "NAME": "Explosive Puppet",
+    "DESCRIPTION": "At the start of next turn, apply !M! genshin:Pyro to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "At the start of next turn, apply !M! genshin:Pyro to ALL enemies."
+  },
+  "genshin:NiwabiFireDance": {
+    "NAME": "Niwabi Fire Dance",
+    "DESCRIPTION": "Retain. NL Apply !M! genshin:Pyro. NL When Retained, increase its Element layer by 3 this combat.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Apply !M! genshin:Pyro. NL When Retained, increase its Element layer by 4 this combat."
+  },
+  "genshin:Dendrogranum": {
+    "NAME": "Dendrogranum",
+    "DESCRIPTION": "Retain. NL Exhaust. NL Deal !D! damage !M! times. NL Lose !M! HP.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Exhaust. NL Deal !D! damage !M! times."
+  },
+  "genshin:RyuukinSaxifrage": {
+    "NAME": "Ryuukin Saxifrage",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you trigger genshin:Pyro reaction, return this from the discard pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Whenever you trigger genshin:Pyro reaction, return this from the discard pile to your hand."
+  },
+  "genshin:SparksnSplash": {
+    "NAME": "Sparksn Splash",
+    "DESCRIPTION": "Deal !D! damage. If you have Strength , apply extra !M! genshin:Pyro.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. If you have Strength , apply extra !M! genshin:Pyro."
+  },
+  "genshin:MoltenInferno": {
+    "NAME": "Molten Inferno",
+    "DESCRIPTION": "Lose All Vigor and genshin:tenacity. NL Gain Strength of Vigor amount. NL Gain Dexterity of genshin:tenacity amount. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Lose All Vigor and genshin:tenacity. NL Gain Strength of Vigor amount. NL Gain Dexterity of genshin:tenacity amount. NL Exhaust."
+  },
+  "genshin:NereidsAscension": {
+    "NAME": "Nereids Ascension",
+    "DESCRIPTION": "If the enemy intends to attack, Gain 7 temporary_hp. NL Otherwise Apply !M! genshin:Hydro.",
+    "UPGRADE_DESCRIPTION": "If the enemy intends to attack, Gain 10 temporary_hp. NL Otherwise Apply !M! genshin:Hydro."
+  },
+  "genshin:WandaInternational": {
+    "NAME": "Wanda International",
+    "DESCRIPTION": "Apply !M! genshin:Hydro then Apply !M! genshin:Pyro.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Hydro then Apply !M! genshin:Pyro."
+  },
+  "genshin:SuperSaturatedSyringing": {
+    "NAME": "Super Saturated Syringing",
+    "DESCRIPTION": "Deal damage of the amount of temporary_hp. Total !D! damage.",
+    "UPGRADE_DESCRIPTION": "Deal damage of the amount of temporary_hp +3 . Total !D! damage."
+  },
+  "genshin:ReboundHydrotherapy": {
+    "NAME": "Rebound Hydrotherapy",
+    "DESCRIPTION": "Deal !D! damage.If this killed enemy Gain !M! HP.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage.If this killed enemy Gain !M! HP."
+  },
+  "genshin:RiteofProgenitureTectonicTide": {
+    "NAME": "Rite of Progeniture Tectonic Tide",
+    "DESCRIPTION": "Exhaust all status cards in the deck. Gain !M! Block for each card Exhausted.",
+    "UPGRADE_DESCRIPTION": "Exhaust all status cards in the deck. Gain !M! Block for each card Exhausted."
+  },
+  "genshin:GuhuaSwordRaincutter": {
+    "NAME": "Guhua Sword Raincutter",
+    "DESCRIPTION": "Apply !M! genshin:Hydro to ALL enemies. NL Add a Slimed to Discard pile.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Hydro to ALL enemies. NL Add a Slimed to Discard pile."
+  },
+  "genshin:DanceofHaftkarsvar": {
+    "NAME": "Dance of Haftkarsvar",
+    "DESCRIPTION": "Dendrogranum no longer lose HP ,base damage increased by 4.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Dendrogranum no longer lose HP.base damage increased by 4."
+  },
+  "genshin:ElementalBlessing": {
+    "NAME": "ElementalBlessing",
+    "DESCRIPTION": "Double the amount of elements applied for the next turn.",
+    "UPGRADE_DESCRIPTION": "Double the amount of elements applied for the next turn."
+  },
+  "genshin:BaneofAllEvil": {
+    "NAME": "BaneofAllEvil",
+    "DESCRIPTION": "Trigger genshin:Diffusion to ALL enemies. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Trigger genshin:Diffusion to ALL enemies. NL End your turn."
+  },
+  "genshin:SubjugationKoukouSendou": {
+    "NAME": "Subjugation Koukou Sendou",
+    "DESCRIPTION": "Apply !M! genshin:Electro to ALL enemies. NL Add a Void to Discard pile.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Electro to ALL enemies. NL Add a Void to Discard pile."
+  },
+  "genshin:MeowteorKick": {
+    "NAME": "Meowteor Kick",
+    "DESCRIPTION": "Gain !B! Block. Apply !M! genshin:Dentro.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. Apply !M! genshin:Dentro."
+  },
+  "genshin:AromaticExplication": {
+    "NAME": "Aromatic Explication",
+    "DESCRIPTION": "Apply !M! genshin:Dentro for each enemy in combat.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Dentro for each enemy in combat."
+  },
+  "genshin:Dawn": {
+    "NAME": "Dawn",
+    "DESCRIPTION": "Apply !M! genshin:Pyro to ALL enemies. NL Add a Burn to Discard pile.",
+    "UPGRADE_DESCRIPTION": "Apply !M! genshin:Pyro to ALL enemies. NL Add a Burn to Discard pile."
+  },
+  "genshin:YoohooArtFuuinDash": {
+    "NAME": "Yoohoo Art Fuuin Dash",
+    "DESCRIPTION": "Deal !D! damage. NL Next turn, draw !M! additional cards.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Next turn, draw !M! additional cards."
+  },
+  "genshin:CliffbreakersBanner": {
+    "NAME": "Cliff breakers Banner",
+    "DESCRIPTION": "Trigger genshin:Crystallization. Apply !M! Weak.",
+    "UPGRADE_DESCRIPTION": "Trigger genshin:Crystallization. Apply !M! Weak."
+  },
+  "genshin:ElementLocking": {
+    "NAME": "Element Locking",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! genshin:ElementalLocking.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply !M! genshin:ElementalLocking."
+  },
+  "genshin:ElementalDriver": {
+    "NAME": "Elemental Driver",
+    "DESCRIPTION": "Deal !D! damage, NL for each time you Trigger one different element reaction this turn.Draw 1 card NL Total draw !M! card. NL ( Hydro-Pyro, Hydro-Electro, Hydro-Cryo, Hydro-Dentro, Pyro-Electro, Pyro-Cryo, Pyro-Dentro, Electro-Cryo, Electro-Dentro, Cryo-Dentro, Diffusion, Crystallization, )",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage, NL for each time you Trigger one different element reaction this turn.Draw 1 card NL Total draw !M! card. NL ( Hydro-Pyro, Hydro-Electro, Hydro-Cryo, Hydro-Dentro, Pyro-Electro, Pyro-Cryo, Pyro-Dentro, Electro-Cryo, Electro-Dentro, Cryo-Dentro, Diffusion, Crystallization, )"
+  },
+  "genshin:RerivePraise": {
+    "NAME": "RerivePraise",
+    "DESCRIPTION": "Exhaust NL Apply !M! Constricted at the end of turn if this is in your hand.",
+    "UPGRADE_DESCRIPTION": "Exhaust NL Apply !M! Constricted at the end of turn if this is in your hand."
+  }
+}

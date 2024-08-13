@@ -1,0 +1,93 @@
+{
+  "genshin:MyRelic": {
+    "NAME": "测试遗物",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，抽 #b1 张牌。"
+    ]
+  },
+  "genshin:Vision": {
+    "NAME": "神之眼",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每场战斗第一次触发元素反应获得 [E] 。"
+    ]
+  },
+  "genshin:Heart": {
+  "NAME": "神之心",
+  "FLAVOR": "这个人很懒，什么都没写",
+  "DESCRIPTIONS": [
+    "每回合第一次触发元素反应获得 [E] 。"
+  ]
+  },
+  "genshin:InstructorsCap": {
+  "NAME": "教官",
+  "FLAVOR": "这个人很懒，什么都没写",
+  "DESCRIPTIONS": [
+    "每场战斗开始时，获得1点 genshin:元素精通 。"
+  ]
+  },
+  "genshin:Hydroculus": {
+    "NAME": "散失的水神瞳",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每场战斗开始时对所有怪物施加三层 genshin:水 。"
+    ]
+  },
+  "genshin:ViridescentVenerer": {
+    "NAME": "翠绿之影",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "触发 genshin:扩散 反应时对敌人添加一层 genshin:元素锁定 。"
+    ]
+  },
+  "genshin:WitchsHeartFlames": {
+    "NAME": "魔女的心之火",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每在同一回合触发10层 genshin:火 元素反应获得1点 #y力量 。"
+    ]
+  },
+  "genshin:FrostWeavedDignity": {
+    "NAME": "遍结寒霜的傲骨",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每在同一回合触发10层 genshin:冰 元素反应获得1点 #y敏捷 。"
+    ]
+  },
+  "genshin:DreamSolvent": {
+    "NAME": "异梦溶媒",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每当有敌人死去时，将其身上的元素层数移到一名随机敌人身上。。"
+    ]
+  },
+  "genshin:IntertwinedFate": {
+    "NAME": "纠缠之缘",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，你可以从 #b3 张升级后的随机 #y稀有 牌中选择 #b1 张增加到你的手牌。"
+    ]
+  },
+  "genshin:TenacityoftheMillelith": {
+    "NAME": "千岩牢固",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "当你的生命值等于或低于 #b50% 时, 获得额外 #b3点 #y敏捷 。"
+    ]
+  },
+  "genshin:PaimonsFoodFund": {
+  "NAME": "派蒙的伙食小金库",
+  "FLAVOR": "这个人很懒，什么都没写",
+  "DESCRIPTIONS": [
+    "每次你使用药剂时时，获得 #b10  #y金币 。"
+  ]
+  },
+  "genshin:AcquaintFate": {
+    "NAME": "相遇之缘",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，你可以从 #b3 张随机 #y稀有 牌中选择 #b1 张增加到你的手牌。"
+    ]
+  }
+}

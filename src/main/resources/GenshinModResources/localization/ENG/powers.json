@@ -1,0 +1,220 @@
+{
+  "genshin:HydroPower": {
+    "NAME": "Hydro",
+    "DESCRIPTIONS": [
+      "[#0000FF]Hydro [#FF0000]Pyro :Deals elemental stacks consumed * 2 damage. NL [#0000FF]Hydro [#BFEFFF]Cryo :Apply elemental stacks consumed #yWeak. NL [#0000FF]Hydro [#912CEE]Electro :Deals elemental stacks consumed damage to ALL enemies. NL [#0000FF]Hydro [#32CD32]Dentro :Spawns #yDendrogranum that consumes stacks."
+    ]
+  },
+  "genshin:PyroPower": {
+    "NAME": "Pyro",
+    "DESCRIPTIONS": [
+      "[#FF0000]Pyro [#0000FF]Hydro :Deals elemental stacks consumed * 2 damage. NL [#FF0000]Pyro [#BFEFFF]Cryo :Deals elemental stacks consumed * 2 damage. NL [#FF0000]Pyro [#912CEE]Electro :Deals elemental stacks consumed * 2 damage to ALL enemies. NL Add a #yBurn into your discard pile. NL [#FF0000]Pyro [#32CD32]Dentro :Gain elemental stacks consumed #yStrength. NL At the end of this turn, lose elemental stacks consumed #yStrength."
+    ]
+  },
+  "genshin:ElectroPower": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "[#912CEE]Electro [#0000FF]Hydro :Deals elemental stacks consumed damage to ALL enemies. NL [#912CEE]Electro [#FF0000]Pyro :Deals elemental stacks consumed * 2 damage to ALL enemies. NL Add a #yBurn into your discard pile. NL [#912CEE]Electro [#BFEFFF]Cyro :Apply elemental stacks consumed #yVulnerable. NL [#912CEE]Electro [#32CD32]Dentro :Your next Attack deals elemental stacks consumed #yadditional damage,next Block gain elemental stacks consumed #yadditional block"
+    ]
+  },
+  "genshin:CryoPower": {
+    "NAME": "Cryo",
+    "DESCRIPTIONS": [
+      "[#BFEFFF]Cryo [#0000FF]Hydro :Apply elemental stacks consumed #yWeak. NL [#BFEFFF]Cryo [#FF0000]Pyro :Deals elemental stacks consumed * 2 damage. NL [#BFEFFF]Cryo Electro :Apply elemental stacks consumed #yVulnerable. NL [#BFEFFF]Cryo [#32CD32]Dentro :enemies lose elemental stacks consumed #yStrength this turn."
+    ]
+  },
+  "genshin:DentroPower": {
+    "NAME": "Dentro",
+    "DESCRIPTIONS": [
+      "[#32CD32]Dentro [#0000FF]Hydro :Spawns #yDendrogranum that consumes stacks. NL [#32CD32]Dentro [#FF0000]Pyro :Gain elemental stacks consumed #yStrength. NL At the end of this turn, lose elemental stacks consumed #yStrength. NL [#32CD32]Dentro [#BFEFFF]Cryo :enemies lose elemental stacks consumed #yStrength this turn. NL [#32CD32]Dentro [#912CEE]Electro :Your next Attack deals elemental stacks consumed #yadditional damage,next Block gain elemental stacks consumed #yadditional block"
+    ]
+  },
+  "genshin:ElementalMasteryPower": {
+    "NAME": "ElementalMastery",
+    "DESCRIPTIONS": [
+      "Increases the effect of applied elements.",
+      "Decreases the effect of applied elements."
+    ]
+  },
+  "genshin:BiasElementalMasteryPower": {
+    "NAME": "Bias ElementalMastery",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #bX ElementalMastery."
+    ]
+  },
+  "genshin:HydroGainTempHPPower": {
+    "NAME": "Bond of Life",
+    "DESCRIPTIONS": [
+      "For each stack of Hydro Elemental Reaction, gain #b%d #ytemporary_hp."
+    ]
+  },
+  "genshin:ElectroGainEnergyPower": {
+    "NAME": "Power bank",
+    "DESCRIPTIONS": [
+      "Each time you trigger a Electro Elemental Reaction, gain #b%d Energy."
+    ]
+  },
+  "genshin:AnemoGeoCostPower": {
+    "NAME": "Limiter",
+    "DESCRIPTIONS": [
+      "Triggering the Diffusion and Crystallization Reactions will no longer consume elemental on the target"
+    ]
+  },
+  "genshin:AnemoGainAddCardPower": {
+    "NAME": "Tomorrow's direction",
+    "DESCRIPTIONS": [
+      "Each time the diffusion reaction is triggered, #b%d cards are drawn"
+    ]
+  },
+  "genshin:StormbreakerPower": {
+    "NAME": "Thunder",
+    "DESCRIPTIONS": [
+      "When attacked, apply #b%d genshin:Electro back."
+    ]
+  },
+  "genshin:StartGainWildStarPower": {
+    "NAME": "salute",
+    "DESCRIPTIONS": [
+      "At the start of each turn, add a *WildStar into your hand."
+    ]
+  },
+  "genshin:WeakLoseHPPower": {
+    "NAME": "Celestial Shower",
+    "DESCRIPTIONS": [
+      "At the start of the turn, the enemy loses Weak Stacks * #b%d HP."
+    ]
+  },
+  "genshin:AttackGainTempHPPower": {
+    "NAME": "Adeptus Art Herald of Frost",
+    "DESCRIPTIONS": [
+      "Whenever you attack this enemy,gain #b%d #ytemporary_hp."
+    ]
+  },
+  "genshin:StartTurnApplyRandomElementPower": {
+  "NAME": "Elemental Rainbow Random",
+  "DESCRIPTIONS": [
+    "At the start of the turn,randomly apply #b%d #yElement to ALL enemies."
+  ]
+  },
+  "genshin:StartTurnApplySpecificElementPower": {
+    "NAME": "Elemental Rainbow Selected",
+    "DESCRIPTIONS": [
+      "At the start of the turn,choose to apply #b%d #yElement to ALL enemies."
+    ]
+  },
+  "genshin:CryoReplaceDamagePower": {
+    "NAME": "Spirit Blade Chonghuas Layered Frost",
+    "DESCRIPTIONS": [
+      "Adds the same amount of damage to the next attack with #ygenshin:Cryo."
+    ]
+  },
+  "genshin:EndGainAnemoSeedPower": {
+  "NAME": "Magic Trick Astonishing Shift",
+  "DESCRIPTIONS": [
+    "At the end of each turn, add a *AnemoSeed into your draw piles."
+  ]
+  },
+  "genshin:BreastplatePower": {
+    "NAME": "Breastplate",
+    "DESCRIPTIONS": [
+      "When Block exists, gain #b%d temporary_hp for each attack taken."
+    ]
+  },
+  "genshin:HolisticRevivificationPower": {
+    "NAME": "Holistic Revivification",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b%d Block."
+    ]
+  },
+  "genshin:NextTurnPyroPower": {
+    "NAME": "Explosive Puppet",
+    "DESCRIPTIONS": [
+      "At the start of next turn, apply #b%d #ygenshin:Pyro to ALL enemies."
+    ]
+  },
+  "genshin:DanceofHaftkarsvarPower": {
+    "NAME": "Dance of Haftkarsvar",
+    "DESCRIPTIONS": [
+      "Dendrogranum no longer lose HP."
+    ]
+  },
+  "genshin:NextTurnDoubleElementPower": {
+    "NAME": "Double Element ",
+    "DESCRIPTIONS": [
+      "Double the amount of elements applied this turn."
+    ]
+  },
+  "genshin:ElemetalBlessingPower": {
+    "NAME": "ElemetalBlessing",
+    "DESCRIPTIONS": [
+      "Double the amount of elements applied for the next #b%d turn."
+    ]
+  },
+  "genshin:ElemetalLockingPower": {
+    "NAME": "Elemetal Locking",
+    "DESCRIPTIONS": [
+      "Elemental damage taken is increased by 0.5 for #b%d turns."
+    ]
+  },
+  "genshin:ViridescentVenererPower": {
+    "NAME": "ViridescentVenerer",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #ygenshin:Diffusion, apply #b1 #ygenshin:ElementalLocking ."
+    ]
+  },
+  "genshin:TenacityPower": {
+    "NAME": "TenacityPower",
+    "DESCRIPTIONS": [
+      "Your next block is increased by #b%d ."
+    ]
+  },
+  "genshin:CryoFreePower": {
+    "NAME": "CryoFree",
+    "DESCRIPTIONS": [
+      "Can't apply Cryo."
+    ]
+  },
+  "genshin:PyroFreePower": {
+    "NAME": "PyroFree",
+    "DESCRIPTIONS": [
+      "Can't apply Pyro."
+    ]
+  },
+  "genshin:ElectroFreePower": {
+    "NAME": "ElectroFree",
+    "DESCRIPTIONS": [
+      "Can't apply Electro."
+    ]
+  },
+  "genshin:HydroFreePower": {
+    "NAME": "HydroFree",
+    "DESCRIPTIONS": [
+      "Can't apply Hydro."
+    ]
+  },
+  "genshin:DentroFreePower": {
+    "NAME": "DentroFree",
+    "DESCRIPTIONS": [
+      "Can't apply Dentro."
+    ]
+  },
+  "genshin:BlockLoseHPPower": {
+    "NAME": "Jizo",
+    "DESCRIPTIONS": [
+      "At the end of turn, Lose #b%d HP if your Block Less than #b%d ."
+    ]
+  },
+  "genshin:DeadHealingPower": {
+    "NAME": "nutrient",
+    "DESCRIPTIONS": [
+      "Upon death, Apep will gain #b%d HP"
+    ]
+  },
+  "genshin:ExplosivePower": {
+    "NAME": "destruction",
+    "DESCRIPTIONS": [
+      "At the next turn,suicide and apply #b%d #yConstricted.",
+      "After #b%d turns,suicide and apply #b%d #yConstricted."
+    ]
+  }
+}

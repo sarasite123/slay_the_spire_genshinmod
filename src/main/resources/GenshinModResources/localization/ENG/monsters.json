@@ -1,0 +1,75 @@
+{
+  "genshin:Dvalin": {
+    "MOVES": [
+      "Dragons Breath",
+      "Meteor Shower",
+      "Dragon Dance",
+      "Caelestinum Finale Termini",
+      "Storm Vortex",
+      "Vertigo",
+      "vertigo"
+    ],
+    "NAME": "Dvalin",
+    "DIALOG": [
+      "wow!"
+    ]
+  },
+  "genshin:Azhdaha": {
+    "MOVES": [
+      "Thousands of miles withered",
+      "Ancient Dragon Rock Tour",
+      "Landslide rockfall",
+      "Absorb the Hydro element",
+      "Absorb the Pyro element",
+      "Absorb the Electro element",
+      "Absorb the Cryo element"
+    ],
+    "NAME": "Azhdaha",
+    "DIALOG": [
+      "Mortals, Hugh trespasses!",
+      "Morax, it's time to liquidate everything!"
+    ]
+  },
+  "genshin:Apep": {
+    "MOVES": [
+      "Leafy covering",
+      "Heart of Oasis",
+      "Soft leaf sawing",
+      "Aftermath of the apocalypse"
+    ],
+    "NAME": "Apep",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "genshin:PreliminaryProliferatingOrganism": {
+    "MOVES": [
+      "melee",
+      "Far"
+    ],
+    "NAME": "Preliminary",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "genshin:ProliferatingOrganism": {
+    "MOVES": [
+      "destruction",
+      "explosive"
+    ],
+    "NAME": "Proliferating",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "genshin:ProvenderProliferatingOrganism": {
+    "MOVES": [
+      "strengthen",
+      "defend"
+    ],
+    "NAME": "Provender",
+    "DIALOG": [
+      ""
+    ]
+  }
+}
